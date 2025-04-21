@@ -1,6 +1,6 @@
 ---
 layout: default
-title:Hacker
+title: Hacker
 description: Test page
 ---
 # Lorem ipsum
