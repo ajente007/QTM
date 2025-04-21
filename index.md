@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Potato Hacker
+title:Hacker
 description: Test page
 ---
 # Lorem ipsum
